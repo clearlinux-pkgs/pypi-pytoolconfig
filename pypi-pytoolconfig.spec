@@ -4,7 +4,7 @@
 #
 Name     : pypi-pytoolconfig
 Version  : 1.1.2
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/05/34/5eb0179fdba0d2f7c74016f79703cfb9feb05677083c2d0f5679c076f9e6/pytoolconfig-1.1.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/05/34/5eb0179fdba0d2f7c74016f79703cfb9feb05677083c2d0f5679c076f9e6/pytoolconfig-1.1.2.tar.gz
 Summary  : Python tool configuration
@@ -51,7 +51,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1655913113
+export SOURCE_DATE_EPOCH=1656002381
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
