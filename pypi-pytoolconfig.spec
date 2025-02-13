@@ -4,7 +4,7 @@
 #
 Name     : pypi-pytoolconfig
 Version  : 1.2.5
-Release  : 16
+Release  : 17
 URL      : https://github.com/bagel897/pytoolconfig/archive/v1.2.5/pytoolconfig-1.2.5.tar.gz
 Source0  : https://github.com/bagel897/pytoolconfig/archive/v1.2.5/pytoolconfig-1.2.5.tar.gz
 Summary  : Python tool configuration
